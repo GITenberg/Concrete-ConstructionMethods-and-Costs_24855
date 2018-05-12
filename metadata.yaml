@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '26774'
     url: http://www.gutenberg.org/2009/agents/26774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24855#Concrete-ConstructionMethods-and-Costs
 gutenberg_bookshelf: Engineering
 gutenberg_issued: '2008-03-16'
 gutenberg_type: Text
